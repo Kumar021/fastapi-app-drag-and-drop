@@ -20,5 +20,20 @@ $ uvicorn app.main:app --reload --port 8080
 
 Visit http://127.0.0.1:8080/ 
 ```
-https://github.com/Kumar021/fastapi-app-drag-and-drop/blob/main/src/static/images/Upload-FastAPI-Starter.png
+![alt text](https://github.com/Kumar021/fastapi-app-drag-and-drop/blob/main/src/static/images/Upload-FastAPI-Starter.png)
 
+# Features 
+ * Drag & Drop Form
+ * Menu 
+ * Accordion 
+ * Markdown pages 
+ * Two Forms 
+
+ 
+# Test 
+```
+# Change the directory
+$ cd fastapi-web-starter
+# Run tests
+$ pytest -v
+```
